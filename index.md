@@ -3,13 +3,15 @@
 First Assignment: Set Up a GitPages
 
 ### My Hobbies
-Syntax highlighted code block
+<details><summary>CLICK ME</summary>
+<p>
 
 - Karate
 - Hiking
 - Reading
 - Cooking
-
+</p>
+</details>
 
 ### Markdown
 
