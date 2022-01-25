@@ -2,7 +2,9 @@
 
 First Assignment: Set Up a GitPages
 
-## My Hobbies
+### My Hobbies
+Syntax highlighted code block
+
 - Karate
 - Hiking
 - Reading
