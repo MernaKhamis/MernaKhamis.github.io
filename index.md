@@ -8,11 +8,11 @@
 
 ```
 ```
-- :martial_arts_uniform:Karate
-- :mountain:Hiking
-- :open_book:Reading
-- :biking_woman:Biking
-- :pancakes:Cooking
+- :martial_arts_uniform: Karate
+- :mountain: Hiking
+- :open_book: Reading
+- :biking_woman: Biking
+- :pancakes: Cooking
 
 ```
 ```
