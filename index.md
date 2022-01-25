@@ -1,48 +1,24 @@
 ## Welcome to my Page
 
-First Assignment: Set Up a GitPages
+>First Assignment: Set Up a GitPages
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### My Hobbies
-<details><summary>CLICK ME</summary>
-<p>
 
-- Karate
-- Hiking
-- Reading
-- Cooking
-</p>
-</details>
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+```
+- :martial_arts_uniform:Karate
+- :mountain:Hiking
+- :open_book:Reading
+- :biking_woman:Biking
+- :pancakes:Cooking
+```
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MernaKhamis/MernaKhamis.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-You can use the [editor on GitHub](https://github.com/MernaKhamis/MernaKhamis.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<details><summary>CLICK ME</summary>
+<p>
+  
+  </p>
+</details>
