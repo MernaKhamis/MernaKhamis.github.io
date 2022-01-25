@@ -18,8 +18,10 @@
 ```
 
 ### About me
-<details><summary>CLICK ME</summary>
+<details><summary>CLICK HERE</summary>
 <p>
- I am Merna Khamis from Egypt. A CS major, HCI minor student.
+ 
+ ** I am Merna Khamis from Egypt. A CS major, HCI minor student.**
+ 
 </p>
 </details>
